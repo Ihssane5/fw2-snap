@@ -1,6 +1,6 @@
-from indexer import ParquetIndexer
-from extractor import ParquetExtractor
-from exporter import HFExporter
+from src.indexer import ParquetIndexer
+from src.extractor import ParquetExtractor
+from src.exporter import HFExporter
 from dotenv import load_dotenv
 import os
 from pathlib import Path
