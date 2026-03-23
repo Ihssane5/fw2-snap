@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "source": "HuggingFaceFW/fineweb-2",
+    "column": "dump",
+    "built_at": "2026-03-23T18:13:16.178070",
+    "last_updated": "2026-03-23T18:14:32.352817",
+    "total_shards": 1,
+    "completed_shards": 1,
+    "layout": "contiguous"
+  },
+  "shards": {
+    "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/resolve/main/data/abn_Latn/train/000_00000.parquet": {
+      "total_rows": 189,
+      "contiguous": true,
+      "dumps": {
+        "CC-MAIN-2017-39": [
+          {
+            "start": 0,
+            "end": 25
+          }
+        ],
+        "CC-MAIN-2017-43": [
+          {
+            "start": 25,
+            "end": 30
+          }
+        ],
+        "CC-MAIN-2017-47": [
+          {
+            "start": 30,
+            "end": 43
+          }
+        ],
+        "CC-MAIN-2017-51": [
+          {
+            "start": 43,
+            "end": 50
+          }
+        ],
+        "CC-MAIN-2018-05": [
+          {
+            "start": 50,
+            "end": 52
+          }
+        ],
+        "CC-MAIN-2018-09": [
+          {
+            "start": 52,
+            "end": 53
+          }
+        ],
+        "CC-MAIN-2018-13": [
+          {
+            "start": 53,
+            "end": 61
+          }
+        ],
+        "CC-MAIN-2018-17": [
+          {
+            "start": 61,
+            "end": 69
+          }
+        ],
+        "CC-MAIN-2018-47": [
+          {
+            "start": 69,
+            "end": 70
+          }
+        ],
+        "CC-MAIN-2019-22": [
+          {
+            "start": 70,
+            "end": 176
+          }
+        ],
+        "CC-MAIN-2019-26": [
+          {
+            "start": 176,
+            "end": 177
+          }
+        ],
+        "CC-MAIN-2019-39": [
+          {
+            "start": 177,
+            "end": 178
+          }
+        ],
+        "CC-MAIN-2021-43": [
+          {
+            "start": 178,
+            "end": 180
+          }
+        ],
+        "CC-MAIN-2021-49": [
+          {
+            "start": 180,
+            "end": 188
+          }
+        ],
+        "CC-MAIN-2023-50": [
+          {
+            "start": 188,
+            "end": 189
+          }
+        ]
+      }
+    }
+  }
+}
